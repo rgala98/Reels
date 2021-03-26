@@ -1,0 +1,1692 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : true,
+  "videoFormatFrameRate" : 30,
+  "audioFormatSampleRate" : 44100,
+  "width" : 1080.0,
+  "height" : 1920.0,
+  "version" : "4.0",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Mac",
+    "version" : "2020.0.16"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "./recordings/1616692639.145003/Rec 3-25-2021 1.trec",
+      "rect" : [0, 0, 2880, 1800],
+      "lastMod" : "20210325T164821",
+      "sourceTracks" : [
+        {
+          "range" : [0, 408],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 2880, 1800],
+          "sampleRate" : 28,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "2b7b6a01-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;2b7b6afb-7a1f-11e2-83d0-0017f200be7f;2b7b6afc-7a1f-11e2-83d0-0017f200be7f;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210325T164822.574383"
+      }
+    },
+    {
+      "id" : 2,
+      "src" : "./recordings/1616692639.149406/Rec 3-25-2021 4.trec",
+      "rect" : [0, 0, 2880, 1800],
+      "lastMod" : "20210325T165619",
+      "sourceTracks" : [
+        {
+          "range" : [0, 759],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 2880, 1800],
+          "sampleRate" : 27,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "2b7b6a01-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;2b7b6afb-7a1f-11e2-83d0-0017f200be7f;2b7b6afc-7a1f-11e2-83d0-0017f200be7f;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210325T165619.856161"
+      }
+    },
+    {
+      "id" : 3,
+      "src" : "./recordings/1616692639.150213/Rec 3-25-2021 5.trec",
+      "rect" : [0, 0, 2880, 1800],
+      "lastMod" : "20210325T165908",
+      "sourceTracks" : [
+        {
+          "range" : [0, 647],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 2880, 1800],
+          "sampleRate" : 29,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "2b7b6a01-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;2b7b6afb-7a1f-11e2-83d0-0017f200be7f;2b7b6afc-7a1f-11e2-83d0-0017f200be7f;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210325T165909.241498"
+      }
+    },
+    {
+      "id" : 4,
+      "src" : "./recordings/1616692639.150449/Rec 3-25-2021 6.trec",
+      "rect" : [0, 0, 2880, 1800],
+      "lastMod" : "20210325T170201",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1690],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 2880, 1800],
+          "sampleRate" : 29,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "2b7b6a01-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;2b7b6afb-7a1f-11e2-83d0-0017f200be7f;2b7b6afc-7a1f-11e2-83d0-0017f200be7f;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210325T170201.874148"
+      }
+    },
+    {
+      "id" : 5,
+      "src" : "./recordings/1616692639.151120/Rec 3-25-2021 8.trec",
+      "rect" : [0, 0, 2880, 1800],
+      "lastMod" : "20210325T170804",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1979],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 2880, 1800],
+          "sampleRate" : 29,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "2b7b6a01-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;2b7b6afb-7a1f-11e2-83d0-0017f200be7f;2b7b6afc-7a1f-11e2-83d0-0017f200be7f;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210325T170805.028810"
+      }
+    },
+    {
+      "id" : 6,
+      "src" : "./recordings/1616692639.151581/Rec 3-25-2021 10.trec",
+      "rect" : [0, 0, 2880, 1800],
+      "lastMod" : "20210325T171317",
+      "sourceTracks" : [
+        {
+          "range" : [0, 739],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 2880, 1800],
+          "sampleRate" : 28,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "2b7b6a01-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;2b7b6afb-7a1f-11e2-83d0-0017f200be7f;2b7b6afc-7a1f-11e2-83d0-0017f200be7f;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210325T171318.031738"
+      }
+    },
+    {
+      "id" : 7,
+      "src" : "./media/1616692639.152118/Screen Shot 2021-03-25 at 22.46.18.png",
+      "rect" : [0, 0, 2250, 1026],
+      "lastMod" : "20210325T171626",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 600,
+          "trackRect" : [0, 0, 2250, 1026],
+          "sampleRate" : 0,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210325T171626.671347"
+      }
+    },
+    {
+      "id" : 8,
+      "src" : "./media/1616746158.860672/VIDO.MP4",
+      "rect" : [0, 0, 720, 1280],
+      "lastMod" : "20210326T073600",
+      "sourceTracks" : [
+        {
+          "range" : [0, 6081],
+          "type" : 2,
+          "editRate" : 900,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 1,
+          "integratedLUFS" : -24.2166517870319,
+          "peakLevel" : 0.616730809211731,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 6057],
+          "type" : 0,
+          "editRate" : 900,
+          "trackRect" : [0, 0, 720, 1280],
+          "sampleRate" : "2377/125",
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210326T073700.692167"
+      }
+    },
+    {
+      "id" : 9,
+      "src" : "./media/1616746158.863715/x1.png",
+      "rect" : [0, 0, 1080, 269],
+      "lastMod" : "20210326T080256",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 600,
+          "trackRect" : [0, 0, 1080, 269],
+          "sampleRate" : 0,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210326T080306.345808"
+      }
+    }
+  ],
+  "timeline" : {
+    "id" : 10,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 11,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 12,
+                          "_type" : "VMFile",
+                          "src" : 8,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "VIDO"
+                          },
+                          "parameters" : {
+                            "translation0" : {
+                              "type" : "double",
+                              "defaultValue" : -0.0530333674052059,
+                              "interp" : "eioe"
+                            },
+                            "translation1" : {
+                              "type" : "double",
+                              "defaultValue" : 86.7585522248229,
+                              "interp" : "eioe"
+                            },
+                            "scale0" : {
+                              "type" : "double",
+                              "defaultValue" : 1.49985268509054,
+                              "interp" : "eioe"
+                            },
+                            "scale1" : {
+                              "type" : "double",
+                              "defaultValue" : 1.36430825953851,
+                              "interp" : "eioe"
+                            },
+                            "sourceCrop0" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "sourceCrop1" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "sourceCrop2" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "sourceCrop3" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop0" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop1" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop2" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop3" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 46,
+                          "mediaStart" : 14,
+                          "mediaDuration" : 91,
+                          "scalar" : "46/91",
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 13,
+                          "_type" : "AMFile",
+                          "src" : 8,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "",
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0",
+                          "parameters" : {
+                            "volume" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 46,
+                          "mediaStart" : 14,
+                          "mediaDuration" : 91,
+                          "scalar" : "46/91",
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 0,
+                    "duration" : 46,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 202,
+                    "scalar" : "46/91",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true,
+                      "default-scale" : "1",
+                      "effectApplied" : "none",
+                      "lockAspectRatio" : true
+                    }
+                  },
+                  {
+                    "id" : 14,
+                    "_type" : "ScreenVMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 3-25-2021 5"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 996.0,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -0.885994478547445,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.06691107401669,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.06691107401669,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 46,
+                    "duration" : 43,
+                    "mediaStart" : 114,
+                    "mediaDuration" : 86,
+                    "scalar" : "1/2",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true,
+                      "default-scale" : "0.6",
+                      "effectApplied" : "none",
+                      "lockAspectRatio" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 15,
+                    "_type" : "ScreenVMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 3-25-2021 5"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 595.0,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -33.8859944785474,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.06691107401669,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.06691107401669,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 89,
+                    "duration" : 19,
+                    "mediaStart" : 200,
+                    "mediaDuration" : 37,
+                    "scalar" : "19/37",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true,
+                      "default-scale" : "0.6",
+                      "effectApplied" : "none",
+                      "lockAspectRatio" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 16,
+                    "_type" : "ScreenVMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 3-25-2021 5"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 322.0,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -33.8859944785474,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.06691107401669,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.06691107401669,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 109,
+                    "duration" : 77,
+                    "mediaStart" : 237,
+                    "mediaDuration" : 153,
+                    "scalar" : "77/153",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true,
+                      "default-scale" : "0.6",
+                      "effectApplied" : "none",
+                      "lockAspectRatio" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 17,
+                    "_type" : "ScreenVMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 3-25-2021 6"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 224.0,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0937799137189188,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.06657622642917,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.06657622642917,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 81.1768411660086,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 95.0059523604864,
+                        "interp" : "eioe"
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 186,
+                    "duration" : 65,
+                    "mediaStart" : 85,
+                    "mediaDuration" : 130,
+                    "scalar" : "1/2",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true,
+                      "default-scale" : "0.6",
+                      "effectApplied" : "none",
+                      "lockAspectRatio" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 18,
+                    "_type" : "ScreenVMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 3-25-2021 6"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 1178.0,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -40.9158637556952,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.19316390200293,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.19316390200293,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 60.8113094221543,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 129.884142814269,
+                        "interp" : "eioe"
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 251,
+                    "duration" : 64,
+                    "mediaStart" : 724,
+                    "mediaDuration" : 192,
+                    "scalar" : "1/3",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true,
+                      "default-scale" : "0.6",
+                      "effectApplied" : "none",
+                      "lockAspectRatio" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 19,
+                    "_type" : "ScreenVMFile",
+                    "src" : 5,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 3-25-2021 8"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 224.0,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 48.0749520372155,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.07915260625399,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.07915260625399,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 54.9514057094393,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 127.110470418074,
+                        "interp" : "eioe"
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 315,
+                    "duration" : 117,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 585,
+                    "scalar" : "1/5",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true,
+                      "default-scale" : "0.6",
+                      "effectApplied" : "none",
+                      "lockAspectRatio" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 20,
+                    "_type" : "ScreenVMFile",
+                    "src" : 5,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 3-25-2021 8"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 224.0,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 39.7226137302636,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.07849932198658,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.07849932198658,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 46.6170154219021,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 134.382944530893,
+                        "interp" : "eioe"
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 432,
+                    "duration" : 178,
+                    "mediaStart" : 963,
+                    "mediaDuration" : 889,
+                    "scalar" : "178/889",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true,
+                      "default-scale" : "0.6",
+                      "effectApplied" : "none",
+                      "lockAspectRatio" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 21,
+                    "_type" : "ScreenVMFile",
+                    "src" : 6,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 3-25-2021 10"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 1179.0,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -48.4795082186459,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.19413694213235,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.19413694213235,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 55.8215364631311,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 136.646120808942,
+                        "interp" : "eioe"
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 610,
+                    "duration" : 42,
+                    "mediaStart" : 33,
+                    "mediaDuration" : 84,
+                    "scalar" : "1/2",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true,
+                      "default-scale" : "0.6",
+                      "effectApplied" : "none",
+                      "lockAspectRatio" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 22,
+                    "_type" : "ScreenVMFile",
+                    "src" : 6,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 3-25-2021 10"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 137.0,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -48.3763205588118,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.19401470771831,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.19401470771831,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 55.8215364631311,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 136.646120808942,
+                        "interp" : "eioe"
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 652,
+                    "duration" : 75,
+                    "mediaStart" : 117,
+                    "mediaDuration" : "27525/92",
+                    "scalar" : "92/367",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true,
+                      "default-scale" : "0.6",
+                      "effectApplied" : "none",
+                      "lockAspectRatio" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 23,
+                    "_type" : "ScreenVMFile",
+                    "src" : 6,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 3-25-2021 10"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 137.0,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -48.3763205588118,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.19401470771831,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.19401470771831,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 55.8215364631311,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 136.646120808942,
+                        "interp" : "eioe"
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 727,
+                    "duration" : 17,
+                    "mediaStart" : "38289/92",
+                    "mediaDuration" : "6239/92",
+                    "scalar" : "92/367",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true,
+                      "default-scale" : "0.6",
+                      "effectApplied" : "none",
+                      "lockAspectRatio" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 24,
+                    "_type" : "IMFile",
+                    "src" : 7,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "Screen Shot 2021-03-25 at 22.46.18"
+                    },
+                    "parameters" : {
+                      "translation0" : 941.0,
+                      "translation1" : 172.911694113448,
+                      "scale0" : 1.53424740267969,
+                      "scale1" : 1.53424740267969,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 744,
+                    "duration" : 37,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : "1/2",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true,
+                      "default-scale" : "0.768",
+                      "effectApplied" : "none",
+                      "lockAspectRatio" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 25,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 26,
+                          "_type" : "VMFile",
+                          "src" : 8,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "VIDO"
+                          },
+                          "parameters" : {
+                            "translation0" : {
+                              "type" : "double",
+                              "defaultValue" : -0.0530333674052059,
+                              "interp" : "eioe"
+                            },
+                            "translation1" : {
+                              "type" : "double",
+                              "defaultValue" : 86.7585522248229,
+                              "interp" : "eioe"
+                            },
+                            "scale0" : {
+                              "type" : "double",
+                              "defaultValue" : 1.49985268509054,
+                              "interp" : "eioe"
+                            },
+                            "scale1" : {
+                              "type" : "double",
+                              "defaultValue" : 1.36430825953851,
+                              "interp" : "eioe"
+                            },
+                            "sourceCrop0" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "sourceCrop1" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "sourceCrop2" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "sourceCrop3" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop0" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop1" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop2" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop3" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 781,
+                          "duration" : 43,
+                          "mediaStart" : 14,
+                          "mediaDuration" : "3913/61",
+                          "scalar" : "61/91",
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 27,
+                          "_type" : "AMFile",
+                          "src" : 8,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "",
+                            "gain" : 1.0,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0",
+                          "parameters" : {
+                            "volume" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 781,
+                          "duration" : 43,
+                          "mediaStart" : 14,
+                          "mediaDuration" : "3913/61",
+                          "scalar" : "61/91",
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 781,
+                    "duration" : 43,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 202,
+                    "scalar" : "61/91",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true,
+                      "default-scale" : "1",
+                      "effectApplied" : "none",
+                      "lockAspectRatio" : true
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 28,
+                    "_type" : "IMFile",
+                    "src" : 9,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "x1"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.46401864948416,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -543.786276836378,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.80456299749904,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.80456299749904,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 46,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : true,
+                      "default-scale" : "1",
+                      "effectApplied" : "none",
+                      "lockAspectRatio" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                ]
+              }            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "trackHeight" : "38"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "trackHeight" : "38"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "trackHeight" : "38"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 32,
+      "backgroundColor" : [ 0, 0, 0, 204],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "gain" : 1.0,
+    "legacyAttenuateAudioMix" : false,
+    "backgroundColor" : [ 0, 0, 0, 255],
+    "metadata" : {
+      "RecordingHeight" : "1800",
+      "RecordingWidth" : "2880"
+    }
+  },
+  "metadata" : {
+    "activeThemeId" : "e59eeb42-ccf0-4a36-bdf9-e630fdab686d",
+    "audiateSessionId" : "",
+    "firstMedia" : true,
+    "hasNotifiedAboutHFRMedia" : false
+  }
+}
